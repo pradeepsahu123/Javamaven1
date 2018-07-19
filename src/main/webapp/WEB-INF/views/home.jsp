@@ -8,9 +8,7 @@
 	<div class="row-fluid">
 		<div class="span10 offset1">
 
-			<h1>
-			TECHM INDIA !!
-			</h1>
+			<h1>Java Project</h1>
 		
 			<div>
 				<p class="well">
